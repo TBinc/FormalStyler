@@ -1,4 +1,4 @@
-<b>Grammarly's Yahoo Answers Formality Corpus (GYAFC)</b>
+The models are based on <b>Grammarly's Yahoo Answers Formality Corpus (GYAFC)</b> <br/>
 Description of this corpus can be found in the paper below: <br/>
 <i><a href="https://arxiv.org/abs/1803.06535">Dear Sir or Madam, May I introduce the GYAFC Corpus: Corpus, Benchmarks and Metrics for Formality Style Transfer </a></i><br/>
 Sudha Rao (raosudha@cs.umd.edu) and Joel Tetreault (tetreaul@gmail.com)</br>
@@ -9,6 +9,6 @@ Access to our GYAFC dataset will require users to first gain access to this Yaho
 
 Once you have gained access to the L6 corpus, please forward the acknowledgment to Joel Tetreault (tetreaul@gmail.com), along with your affiliation and a short description of how you will be using the data, and we will provide access to our GYAFC corpus. <br/>
 
-Once you have the acknowledgment of Joel Tetreault forward the email to u20151c149@upc.edu.pe to receive access to the trained models.
+Once you have the acknowledgment of Joel Tetreault forward the email to u20151c149@upc.edu.pe to receive access to the weights.
 
 Please let us know if you have any questions.
