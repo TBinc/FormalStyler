@@ -6,6 +6,8 @@ To appear in the proceedings of The 2018 North American Association of Computati
 
 The GYAFC corpus was created using the Yahoo Answers corpus: <a href="https://webscope.sandbox.yahoo.com/catalog.php?datatype=l"> L6 - Yahoo! Answers Comprehensive Questions and Answers version 1.0 </a>. This Yahoo Answers corpus can be requested free of charge for research purposes. <br/>
 Access to our GYAFC dataset will require users to first gain access to this Yahoo Answers corpus.
+Dataset request URL: https://webscope.sandbox.yahoo.com/catalog.php?datatype=l , A Yahoo! account is needed.
+Add the Dataset to the cart, proceed to checkout and fill the required fields.
 
 Once you have gained access to the L6 corpus, please forward the acknowledgment to Joel Tetreault (tetreaul@gmail.com), along with your affiliation and a short description of how you will be using the data, and we will provide access to our GYAFC corpus. <br/>
 
