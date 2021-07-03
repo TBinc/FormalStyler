@@ -9,6 +9,6 @@ Access to our GYAFC dataset will require users to first gain access to this Yaho
 
 Once you have gained access to the L6 corpus, please forward the acknowledgment to Joel Tetreault (tetreaul@gmail.com), along with your affiliation and a short description of how you will be using the data, and we will provide access to our GYAFC corpus. <br/>
 
-Once you have the acknowledgment of Joel Tetreault forward the email to u20151c149@upc.edu.pe to receive access to the weights.
+Once you have the acknowledgment of Joel Tetreault forward the email to Cristhiam Tirado (u20151c149@upc.edu.pe) to receive access to the weights.
 
 Please let us know if you have any questions.
